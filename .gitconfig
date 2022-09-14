@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+        name = Alejandro Bustelo
+        email = alejandrobustelo@gmail.com
+[core]
+        autocrlf = input
+[init]
+        defaultBranch = main
+[push]
+        default = current
+        autoSetupRemote = true
